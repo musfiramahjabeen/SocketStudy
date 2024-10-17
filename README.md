@@ -1,6 +1,5 @@
 # Ex.No:1a  			
 Study of Socket Programming
-
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
@@ -40,14 +39,11 @@ To perform a study on Socket Programming
 •	shed, servers can send and receive data using send() and recv().
 
 ## Client –Server Operations
-
 Clients create a socket using socket() and connect to a server using connect().
 After establishing a connection, clients can send and receive data using send() and recv().
-
 ## Use Cases of Socket Programming:
 Socket programming finds applications in various domains, including web development, file transfer protocols, online gaming, and real-time communication. It is the foundation for protocols like HTTP, FTP, and SMTP, which power the internet. Socket programming enables the development of both server and client applications, facilitating the exchange of information between devices in a networked environment.
 ## Example Use Cases:
-
 1.	Web servers: Web servers use socket programming to handle incoming HTTP requests from clients, serving web pages and content.
 2.	Chat Application: Instant messaging and chat applications use sockets to enable real-time communication between users.
 3.	File Transfer Protocol: Protocols like FTP (File Transfer Protocol) utilize socket programming for transferring files between a client and a server.
